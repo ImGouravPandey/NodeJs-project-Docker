@@ -10,7 +10,7 @@ read -p "Enter commit message: " commitMessage
 git commit -m "$commitMessage"
 
 # Add the remote repository
-git remote add origin https://github.com/ImGouravPandey/NodeJs-project-Docker.git
+#git remote add origin https://github.com/ImGouravPandey/NodeJs-project-Docker.git
 
 # Push the changes to the remote repository
 git push origin master
